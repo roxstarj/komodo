@@ -16,7 +16,9 @@
 
 ## Komodo
 
-This is afork of the official Komodo sourcecode repository based on https://github.com/jl777/komodo. 
+This is a fork of the official Komodo sourcecode repository based on https://github.com/jl777/komodo. 
+
+We are ASPX and are a scottish start up company
 
 ## Development Resources
 
