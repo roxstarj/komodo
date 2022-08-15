@@ -16,7 +16,7 @@
 
 ## Komodo
 
-This is the official Komodo sourcecode repository based on https://github.com/jl777/komodo. 
+This is afork of the official Komodo sourcecode repository based on https://github.com/jl777/komodo. 
 
 ## Development Resources
 
